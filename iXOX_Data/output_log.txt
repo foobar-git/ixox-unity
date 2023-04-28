@@ -1,0 +1,33 @@
+Mono path[0] = 'C:/Users/MasterFoo/Desktop/New folder/iXOX_Data/Managed'
+Mono path[1] = 'C:/Users/MasterFoo/Desktop/New folder/iXOX_Data/Mono'
+Mono config path = 'C:/Users/MasterFoo/Desktop/New folder/iXOX_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/MasterFoo/Desktop/New folder/iXOX_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55429
+Multi-casting "[IP] 192.168.0.14 [Port] 55429 [Flags] 2 [Guid] 2761246838 [EditorId] 2486549091 [Version] 1048832 [Id] WindowsPlayer(EX-PC) [Debug] 0" to [225.0.0.222:54997]...
+PlayerConnection already initialized - listening to [192.168.0.14:55429]
+Initialize engine version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 440 (ID=0xde0)
+    Vendor:   NVIDIA
+    VRAM:     978 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\MasterFoo\Desktop\New folder\iXOX_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\MasterFoo\Desktop\New folder\iXOX_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\MasterFoo\Desktop\New folder\iXOX_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\MasterFoo\Desktop\New folder\iXOX_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\MasterFoo\Desktop\New folder\iXOX_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\MasterFoo\Desktop\New folder\iXOX_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\MasterFoo\Desktop\New folder\iXOX_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\MasterFoo\Desktop\New folder\iXOX_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.219 seconds
+Platform assembly: C:\Users\MasterFoo\Desktop\New folder\iXOX_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\MasterFoo\Desktop\New folder\iXOX_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1600x1200 60Hz; virtual: 2624x1200 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 1.548160 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 19a4 -> priority: 1 
